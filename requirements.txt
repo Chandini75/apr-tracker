@@ -3,5 +3,3 @@ ultralytics
 easyocr
 opencv-python-headless
 pandas
-numpy
-Pillow
